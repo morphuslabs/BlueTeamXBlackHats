@@ -17,5 +17,5 @@ Referências:
 Este trabalho está sob a licença Creative Commons - Atribuição CompartilhaIgual (CC-BY-SA), o que quer dizer que você pode utilizar este conteúdo para fins acadêmicos ou comerciais, podendo ajustá-lo ou adaptálo desde que mantenha os créditos do autor e disponibilize a versão alterada sob a mesma licença.
 
 ## Créditos
-Autor: Renato Marinho
+Autor: Renato Marinho, 
 Morphus Labs
